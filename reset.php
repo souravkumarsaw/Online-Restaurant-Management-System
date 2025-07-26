@@ -132,7 +132,7 @@ include('footer.php');
 <script src="js/bootstrap-datepicker.js"></script>
 <script src="js/jquery.timepicker.min.js"></script>
 <script src="js/scrollax.min.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&amp;sensor=false"></script>
+<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
 <script src="js/google-map.js"></script>
 <script src="js/main.js"></script>
 <script>
